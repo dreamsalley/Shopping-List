@@ -1,0 +1,30 @@
+body {
+	background-image: url(http://s25.postimg.org/wg7r3rqlb/groceries.png);
+}
+
+h2 {
+    font-family:Palatino Linotype;
+    color: white;
+}
+
+form {
+    display: inline-block;
+}
+
+#button{
+    display: inline-block;
+    height:20px;
+	width:70px;
+	background-color:black;
+	font-family:garamond;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius: 5px;
+	text-align:center;
+	margin-top:2px;
+}
+
+.list {
+	font-family:garamond;
+	color: white;
+}
